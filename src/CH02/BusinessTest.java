@@ -5,7 +5,8 @@ public class BusinessTest {
 	
 	public static void main(String[] args){
 		BusinessA executee = new BusinessA();
-		executee.insert("강욱", "핳핳", 1200);
+
+		executee.insert("대훈님", "핳핳", 100);
 	}
 	
 }
